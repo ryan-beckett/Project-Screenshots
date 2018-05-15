@@ -13,13 +13,13 @@ A compilation of screenshots of running software I've created
 ## XML to HTML Parser
 ![](https://github.com/ryan-beckett/Project-Screenshots/blob/master/XMLtoHTML.png)
 
-## Tag Parser
+## HTML Tag Parser
 ![](https://github.com/ryan-beckett/Project-Screenshots/blob/master/TagParser.png)
 
-## Web Server
+## Static/CGI Web Server
 ![](https://github.com/ryan-beckett/Project-Screenshots/blob/master/WebServer.jpg)
 
-## Chat Server
+## Distributed Chat Server
 ![](https://github.com/ryan-beckett/Project-Screenshots/blob/master/ChatServer.PNG)
 
 ## Test-Driven Design / Behavorial-Driven Design
